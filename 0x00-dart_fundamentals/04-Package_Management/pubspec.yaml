@@ -1,0 +1,8 @@
+name: 'package_demo'
+description: 'A simple demo using packages'
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  intl: any

@@ -1,0 +1,8 @@
+name: 'report'
+description: 'modular Dart console application that generates a daily productivity report.'
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  intl: any
